@@ -10,7 +10,7 @@ $VER: playnite-light-theme v0.1.0 (29.03.2024)
 ## Install/upgrade
 
 0. Make sure Playnite is installed first.
-1. Download the latest theme file from "Releases".
+1. Download the latest theme file from [Releases](https://github.com/CalAlaera/playnite-light-theme/releases/latest).
 2. Double-click it.
 
 
