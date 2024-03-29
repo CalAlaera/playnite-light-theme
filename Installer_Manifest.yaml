@@ -1,0 +1,8 @@
+AddonId: cf0a70bd-1cf6-4fb3-91fa-35f50f1b5913
+Packages:
+  - Version: 0.1.0
+    RequiredApiVersion: 2.6.0
+    ReleaseDate: 2024-03-29
+    PackageUrl: https://github.com/CalAlaera/playnite-light-theme/releases/download/v0.1.0/Light_Mode_cf0a70bd-1cf6-4fb3-91fa-35f50f1b5913_0_1.pthm
+    Changelog:
+      - "First upload. No issues known, many issues anticipated."
