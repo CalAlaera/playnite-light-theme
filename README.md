@@ -1,4 +1,4 @@
-$VER: playnite-light-theme v0.1.0
+$VER: playnite-light-theme v0.1.0 (29.03.2024)
 
 # playnite-light-theme
 "I Need Light To See" Edition
