@@ -2,9 +2,8 @@ $VER: playnite-light-theme v0.1.0 (29.03.2024)
 
 # playnite-light-theme
 "I Need Light To See" Edition
-*Finally, a light mode theme for Playnite*
 
-Made by Cal Alaera
+*Finally, a light mode theme for Playnite*
 
 ![Screenshot of Playnite's settings panel, using the light mode theme.](https://github.com/CalAlaera/playnite-light-theme/assets/59891537/b4e19928-afda-403e-9743-dc0e681395cc)
 
