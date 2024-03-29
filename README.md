@@ -6,6 +6,8 @@ $VER: playnite-light-theme v0.1.0
 
 Made by Cal Alaera
 
+![Screenshot of Playnite's settings panel, using the light mode theme.](https://github.com/CalAlaera/playnite-light-theme/assets/59891537/b4e19928-afda-403e-9743-dc0e681395cc)
+
 
 ## Install/upgrade
 
@@ -16,7 +18,7 @@ Made by Cal Alaera
 
 ## Notes
 
-To use this theme effectively you'll need to change a setting in Playnite:
+To use this theme effectively you'll need to change a setting in Playnite (as per screenshot above):
 - Settings > Appearance > turn OFF "Use game background image as window background".
 
 
