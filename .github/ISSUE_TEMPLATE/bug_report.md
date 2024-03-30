@@ -1,8 +1,7 @@
 ---
 name: Bug report
 about: Report a problem with the theme.
-title: "[BUG]"
-labels: bug
+labels: Bug
 assignees: CalAlaera
 
 ---
